@@ -1,0 +1,15 @@
+-
+  name: home
+  link: /
+-
+  name: dir
+  link: /outline
+-
+  name: project
+  link: /project
+-
+  name: blog
+  link: /blog
+-
+  name: contact
+  link: /social

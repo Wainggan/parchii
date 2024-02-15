@@ -1,0 +1,23 @@
+---
+layout: wrapped
+---
+
+<header>
+	<div class="header-img"></div>
+	<div class="header-links">
+		{% for link in site.data.links %}
+		<a href="{{ link.link }}">{{ link.name }}</a>
+		{% endfor %}
+	</div>
+</header>
+
+<article class="content">
+	{{ content }}
+</article>
+
+<footer>
+	<footer>
+		<div class="footer-text">~ parchii</div>
+		<div class="footer-img"></div>
+	</footer>
+</footer>

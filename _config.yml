@@ -1,0 +1,22 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      style: /asset/layout.css
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+title: parchii hell
+description: a dumping ground for loose thoughts and ideas
+author: parchii
+url: "https://parchii.neocities.org"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

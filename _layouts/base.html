@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ page.title }}</title>
+	<link rel="stylesheet" href="{{ page.style }}"/>
+	{% for style in layout.styles %}
+		<link rel="stylesheet" href="{{ style }}"/>
+	{% endfor %}
+	{% for style in page.styles %}
+		<link rel="stylesheet" href="{{ style }}"/>
+	{% endfor %}
+	{% for script in page.scripts %}
+		<script defer src="{{ script }}"></script>
+	{% endfor %}
+</head>
+<body>
+	{{ content }}
+</body>
+</html>

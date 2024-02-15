@@ -1,0 +1,16 @@
+
+.blog-item {
+	border: #444 solid 1px;
+	border-radius: 4px;
+	padding: 1rem;
+	margin: 0.5rem;
+	margin-right: 2rem;
+}
+
+.blog-title {
+
+}
+
+.blog-desc:last-child:after {
+	content: "...";
+}
