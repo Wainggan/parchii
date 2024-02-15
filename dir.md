@@ -1,13 +1,15 @@
 ---
-title: outline
+title: dir
 ---
 
-# outline
+# directory
 
 a directory of pages that exist, according to me
 
 - [index](/)
-- [outline](outline) (you are here)
+- [dir](dir) (you are here)
+	- [links](links)
+	~ big list of links I've collected
 - [social](social)
 ~ various ways to reach me if somehow desired
 - [blog](blog)
