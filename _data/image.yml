@@ -25,7 +25,7 @@
     - ardency
     - vii
 
-- url: /asset/image/logo/calico.png
+- url: /asset/image/other/logo/calico.png
   alt: calico logo. has calico cat with the words "calico state"
   note:
     "calico state's splash logo, used for the itch.io and github page"
@@ -38,7 +38,7 @@
     - cat
     - flat
 
-- url: /asset/image/photo/clouds.jpg
+- url: /asset/image/other/photo/clouds.jpg
   alt: photo of pink and blue tinted clouds
   note: 
     "clouds I took a picture of on a particularly good sunset"
