@@ -1,8 +1,792 @@
-"example":
-  description: lamia with cat ears and a fluffy tail
-  url: /asset/image/art/bunyip.png
-  note: something I drew after seeing the Monster Girl's "bunyip".
+
+- url: /asset/image/art/ardency/vii/painting0.png
+  alt: digital painting of vii
+  note:
+    "first time attempting a paint-like style. screwed up the proportions and eyes."
+  tools:
+    program: ibispaint
+  created: 2024-02-23
   tags:
+    - drawing
+    - painted
+    - ardency
+    - vii
+
+- url: /asset/image/art/ardency/vii/sketch0.png
+  alt: some face shots of vii
+  note:
+    "8 minute sketches of Vii, featuring like the tiniest bits of her new design."
+  tools:
+    program: ibispaint
+  created: 2024-02-22
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/logo/calico.png
+  alt: calico logo. has calico cat with the words "calico state"
+  note:
+    "calico state's splash logo, used for the itch.io and github page"
+  tools:
+    program: krita
+  created: 2024-02-07
+  tags:
+    - drawing
+    - logo
+    - cat
+    - flat
+
+- url: /asset/image/photo/clouds.jpg
+  alt: photo of pink and blue tinted clouds
+  note: 
+    "clouds I took a picture of on a particularly good sunset"
+  tools:
+    camera: some phone
+    processor: krita
+  created: 2024-03-01
+  tags:
+    - photo
+    - clouds
+
+- url: /asset/image/art/gen/2024-01/bunyip.png
+  alt: lamia with cat ears and a fluffy tail
+  note: 
+    "something I drew after seeing the Monster Girl's \"bunyip\""
+  tools:
+    program: krita
+  created: 2024-01-26
+  tags:
+    - drawing
+    - colored
     - cat
     - furry
     - lamia
+
+- url: /asset/image/art/ardency/vii/old/vii-old.png
+  alt: old design for vii
+  note:
+    "this was an attempt at using krita for the first time! 
+    I did a few cute things with this, like the pixelated coloring or halftones, 
+    some glowing, two shading layers. I ended up messing up the proportions a bit, 
+    and so her hair looks a bit flat and her eyes are quite spaced out. as of writing this, 
+    this is a slightly older design of vii, featuring discolorations on her ears and cow lick, 
+    and a little gadget on her left ear"
+  tools:
+    program: krita
+  created: 2023-04-03
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+    - furry
+
+- url: /asset/image/art/gen/2023-04/ebil.png
+  alt: zombie cat girl
+  note:
+    "here is a random character I made up when I decided to try to throw together
+    a bunch of random bullshit and pray that it looked okay. I think it came out okay? 
+    In particular, I really like how the hands turned out. I've usually just avoided drawing them altogether. 
+    The lineart feels a bit all over the place? I played with a *bunch* of effects for this one: 
+    I applied half toning to all the colors, I added some grain-ness for style. 
+    A millions little things for the glasses, which I'm happy with the idea of but I wish it could have made more poppy. 
+    There wasn't much I could do without distracting from an otherwise dark image"
+  tools:
+    program: krita
+  created: 2023-04-04
+  tags:
+    - drawing
+    - colored
+    - furry
+
+- url: /asset/image/art/gen/2023-06/person.png
+  alt: bust drawing of a guy. has green skin, pink hair, yellow eyes, stylish as fuck
+  note:
+    "a random character I made up because I forgot how to use krita lol.
+    the usual effects. usually I fill in the darker areas of the character with lineart,
+    but this time I decided to make it a lot... \"scratchier\". I like it. 
+    The coloring is messy in I think a cute way. 
+    I also changed my art style somewhat since the last image, using much rounder faces 
+    instead of ovals. the eyes are much larger and rounder, and hopefully a bit more cutely chaotic :3. "
+  tools:
+    program: krita
+  created: 2023-06-17
+  tags:
+    - drawing
+    - colored
+    - nonhuman
+
+- url: /asset/image/art/gen/2023-06/itscold!!.png
+  alt: windowed door, a cat girl demon is behind it
+  note:
+    "quick little sketch"
+  tools:
+    program: krita
+  created: 2023-06-27
+  tags:
+    - drawing
+    - sketch
+    - furry
+    - cat
+
+- url: /asset/image/art/gen/2023-06/ooo.png
+  alt: cat girl with tail that roots into the ground
+  note:
+    "a quick sketch, just to try something. 
+    this is featuring a slight shift in the way I draw bodies normally, and I think it looks nice. 
+    her tail was supposed to be just resting-ish on the floor, with a lot of hair kinda just floofing out, 
+    but my friend suggested that her tail is actually rooted to the ground and she's like a plant, 
+    and I have completely accepted this idea. "
+  tools:
+    program: krita
+  created: 2023-06-19
+  tags:
+    - drawing
+    - sketch
+    - furry
+    - cat
+
+- url: /asset/image/art/artfight/2023/hyssop.png
+  alt: kid with leaf hair in front of a sunset
+  note:
+    "someone [attacked me](https://artfight.net/attack/4115098.etkaa), drawing etkaa!!
+
+    obv I had to exact revenge. I drew their oc \"hyssop\" and 
+    [punched them in the face with it](https://artfight.net/attack/4147894.hyssop-on-a-skyscraper). 
+    wahaha."
+  tools:
+    program: krita
+  created: 2023-07-02
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/gen/2023-07/theresnothingwrong.png
+  alt: purple haired girl sitting on a static void
+  note:
+    "practice. took a bit of work to get the static to look right, but I'm quite happy 
+    with how it turned out. "
+  tools:
+    program: krita
+  created: 2023-07-01
+  tags:
+    - drawing
+    - colored
+    - noise
+
+- url: /asset/image/art/ardency/etkaa/etkaa0.png
+  alt: black slime girl
+  note:
+    "decided to try joining [art fight](https://artfight.net/~parchii), so I drew a 
+    reference image for an old oc \"etkaa\" to start. 
+    [Here is the art fight page](https://artfight.net/character/3471771.etkaa)!"
+  tools:
+    program: krita
+  created: 2023-07-01
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - reference
+
+- url: /asset/image/art/artfight/2023/rosabella.png
+  alt: pink haired girl sitting
+  note:
+    "drew a friends oc \"rosabella\" for art fight, then 
+    [punched him in the face with it](https://artfight.net/attack/4106628.rosabella)"
+  tools:
+    program: krita
+  created: 2023-07-01
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/ardency/vii/old/vii-ref.png
+  alt: vii in various poses
+  note:
+    "I needed a reference image for vii for the art fight, so I drew these lads. 
+    it's been a while since I've properly drawn her, so it's nice I did it. 
+    I messed up her bottom arms on the bottom pose."
+  tools:
+    program: krita
+  created: 2023-07-01
+  tags:
+    - drawing
+    - colored
+    - artfight
+    - ardency
+    - vii
+    - furry
+
+- url: /asset/image/art/ardency/etkaa/etkaa1.png
+  alt: black slime girl
+  note:
+    "inspired by that earlier attack, I practiced soft shading with etkaa"
+  tools:
+    program: krita
+  created: 2023-07-02
+  tags:
+    - drawing
+    - colored
+    - ardency
+
+- url: /asset/image/art/artfight/2023/bea.png
+  alt: green haired girl sitting
+  note:
+    "someone else [attacked me](https://artfight.net/attack/4091329.etkaa), 
+    drawing etkaa! so I [revenged](https://artfight.net/attack/4235088.watching-tv). 
+    I ended up messing up her face a bit, which was unfortunate. 
+    also, please enjoy the random dresser in the back lol"
+  tools:
+    program: krita
+  created: 2023-07-02
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/artfight/2023/margaret.png
+  alt: girl walking up stairs
+  note:
+    "seems I forgot to document this one at the time, my bad. 
+    here is Margeret, another attack for artfight 2023."
+  tools:
+    program: krita
+  created: 2023-07-03
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/ardency/silvet/old/silvet.png
+  alt: silvet's old design
+  note:
+    "forgot to document this one at the time. 
+    this is an old design reference for Sil."
+  tools:
+    program: krita
+  created: 2023-07-03
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - silvet
+    - reference
+
+- url: /asset/image/art/artfight/2023/n0tslime.png
+  alt: a dude on his phone
+  note:
+    "I [attacked someone](https://artfight.net/attack/4471164.n0t-slime). 
+    attempted a different coloring style, but it took excruciatingly long to complete lol.
+    
+    and then I'm pretty sure they had like a call out post on tumblr about it being 
+    very obvious which reference image someone uses, and I'm like 90% sure my 
+    attack prompted that lmao. like fair enough but also I liked the outfit on that 
+    reference better than the others lol
+
+    they ended up [revenging me](https://artfight.net/attack/4501570.viiiiii) later, drawing vii!!!"
+  tools:
+    program: krita
+  created: 2023-07-04
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/gen/2023-07/lora.png
+  alt: cat girl, peace sign
+  note:
+    "experimenting with hands!
+    her name is lora, referencing stable diffusion loras"
+  tools:
+    program: krita
+  created: 2023-07-13
+  tags:
+    - drawing
+    - colored
+    - furry
+    - cat
+
+- url: /asset/image/art/gen/2023-07/lora2.png
+  alt: cat girl, reading a sheet of paper
+  note:
+    "lora again. she viibng"
+  tools:
+    program: krita
+  created: 2023-07-14
+  tags:
+    - drawing
+    - colored
+    - furry
+    - cat
+
+- url: /asset/image/art/artfight/2023/obliteration.png
+  alt: rosabella
+  note:
+    "drew rosabella again for an [attack](https://artfight.net/attack/5611275.bbbbbbbbbb). 
+    really happy with the lighting, I think it came out pretty nicely"
+  tools:
+    program: krita
+  created: 2023-07-28
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/artfight/2023/idea.png
+  alt: zombie with big person-sized scissors
+  note:
+    "an attempt at a last minute attack for [dia](https://artfight.net/~DrLuBoo), 
+    but I couldn't finish it in time for submission. really cute character :3"
+  tools:
+    program: krita
+  created: 2023-08-01
+  tags:
+    - drawing
+    - colored
+    - artfight
+
+- url: /asset/image/art/timelines/2023-07.png
+  alt: a grid of images
+  note:
+    "a collage of everything I drew in july this year. 
+    what's most interesting is just how much I've improved from the beginning of the month.
+    really goes to show how important practice is."
+  tools:
+    program: krita
+  created: 2023-08-02
+  tags:
+    - timeline
+
+- url: /asset/image/art/gen/2023-08/cat.png
+  alt: red cat
+  note:
+    "tried drawing in a lineless style for the first time"
+  tools:
+    program: krita
+  created: 2023-08-03
+  tags:
+    - drawing
+    - colored
+    - lineless
+    - cat
+
+- url: /asset/image/art/gen/2023-08/newbrushtest.png
+  alt: cat girl face
+  note:
+    "I made a new krita lineart brush, so I tried it with the lineless style"
+  tools:
+    program: krita
+  created: 2023-08-07
+  tags:
+    - drawing
+    - colored
+    - lineless
+    - furry
+    - cat
+
+- url: /asset/image/art/ardency/red/red-stretching.png
+  alt: red stretching
+  note:
+    "I don't draw Red as often as I should, so here he is."
+  tools:
+    program: krita
+  created: 2023-08-31
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - red
+    - furry
+
+- url: /asset/image/art/ardency/red/redRun.png
+  alt: red running to the left
+  note:
+    "drew Red again. he's such a lad"
+  tools:
+    program: krita
+  created: 2023-09-01
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - red
+    - furry
+
+- url: /asset/image/art/ardency/raoul.png
+  alt: raoul leaning on a wall
+  note:
+    "drew the first boss of neon ardency.
+    a long long time ago, in a much earlier draft of the game's story, he was
+    the main protagonist lol. replaced by Red, then Vii."
+  tools:
+    program: krita
+  created: 2023-09-03
+  tags:
+    - drawing
+    - colored
+    - ardency
+
+- url: /asset/image/art/gen/2023-10/miku.png
+  alt: hatsune miku pointing at a cat, saying "do you eat rocks or something"
+  note:
+    "decided to draw hatsune miku on a whim. rushed it quite a bit"
+  tools:
+    program: krita
+  created: 2023-10-13
+  tags:
+    - drawing
+    - colored
+
+- url: /asset/image/art/parchii/old.png
+  alt: pink slime girl with cybernetiks
+  note:
+    "an sona of mine. 
+    technically I have older but those shall stay in the shadow realm for the time being."
+  tools:
+    program: krita
+  created: 2023-09-08
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/ardency/vii/old/vii_gameportrait.png
+  alt: a game portrait of vii
+  note:
+    "a game portrait of Vii, for neon ardency. made to test the game's artstyle."
+  tools:
+    program: krita
+  created: 2023-10-02
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+    - furry
+    - game
+
+- url: /asset/image/art/gen/2023-10/30mins.png
+  alt: cat girl probably
+  note:
+    "a quick test to see what I could get done in 30 minutes.
+    I forgot the results, but I think sketching ended up taking the longest of all
+    my normal steps. skewed a bit because of how obviously rushed the coloring is."
+  tools:
+    program: krita
+  created: 2023-10-13
+  tags:
+    - drawing
+    - colored
+    - furry
+    - cat
+
+- url: /asset/image/art/gen/2023-10/okay.png
+  alt: a mess
+  note:
+    "a complete mess of an image. I might try making more like this"
+  tools:
+    program: pixlr.com
+  created: 2023-10-09
+  tags:
+    - splash
+
+- url: /asset/image/art/gen/2023-10/listofthings.png
+  alt: highly processed image of something
+  note:
+    "not sure what to say about this."
+  tools:
+    program: krita
+  created: 2023-10-22
+  tags:
+    - splash
+
+- url: /asset/image/art/nullstars/nova.png
+  alt: a reference image of nova
+  note:
+    "a little reference image of nova, the protagonist of my other wip game \"nullstars\"."
+  tools:
+    program: krita
+  created: 2023-12-26
+  tags:
+    - drawing
+    - sketch
+    - nullstars
+    - nova
+    - reference
+
+- url: /asset/image/art/rase/rs.png
+  alt: various rodney and snake things
+  note:
+    "quick sketch of rodney and snake doing things"
+  tools:
+    program: krita
+  created: 2023-12-22
+  tags:
+    - drawing
+    - sketch
+    - rodneysnakeeyes
+
+- url: /asset/image/art/nullstars/nullstars-0.png
+  alt: nova flipping over a chain being shot at it from a huge floating eyeball
+  note:
+    "concept art for nullstars."
+  tools:
+    program: krita
+  created: 2024-01-16
+  tags:
+    - drawing
+    - colored
+    - nullstars
+    - nova
+
+- url: /asset/image/art/gen/2023-10/fakepeople.png
+  alt: fake people
+  note:
+    "I think I was having a breakdown"
+  tools:
+    program: pixlr.com
+  created: 2023-10-30
+  tags:
+    - splash
+
+- url: /asset/image/art/gen/2023-11/pool.png
+  alt: 3d render of a dumb pool
+  note:
+    "messing around with magica voxel"
+  tools:
+    program: MagicaVoxel
+  created: 2023-11-05
+  tags:
+    - 3D
+
+- url: /asset/image/art/gen/2022-06/cat.png
+  alt: '???'
+  note:
+    "inexplicably found this in my drive with the caption \"nukes have negative, cats are cats\""
+  tools:
+  created: 2022-06-06
+  tags:
+    - drawing
+    - sketch
+    
+- url: /asset/image/memes/gaymer.jpg
+  alt: yeah I'm a gamer. gay, mer
+  note:
+    "a meme I made"
+  tools:
+    program: imgflip.com
+  created: 2022-08-16
+  tags:
+    - meme
+    
+- url: /asset/image/art/gen/2022-10/story.png
+  alt: comic where a person pushes someone else into a bottomless void
+  note:
+    "an artistic rendition of a story I wrote for a school assignment back in 3rd grade.
+    ... I did not get a good grade."
+  tools:
+    program: samsung notes
+  created: 2022-10-10
+  tags:
+    - drawing
+    - comic
+
+- url: /asset/image/art/parchii/wainggan0.png
+  alt: slime cat girl
+  note:
+    "first time trying to draw digitally! featuring a new sona to go with it"
+  tools:
+    program: ibispaint
+  created: 2023-02-01
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/parchii/wainggan1.png
+  alt: slime cat girl, on ground
+  note:
+    "drew the sona again. splat"
+  tools:
+    program: ibispaint
+  created: 2023-02-03
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/parchii/wainggan2.png
+  alt: slime cat girl, smiling
+  note:
+    "drew the sona again"
+  tools:
+    program: ibispaint
+  created: 2023-02-03
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/parchii/wainggan3.png
+  alt: slime cat girl, in radiation barrel
+  note:
+    "sona again"
+  tools:
+    program: ibispaint
+  created: 2023-02-04
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/parchii/wainggan4.png
+  alt: slime cat girl sketch, jacko pose
+  note:
+    "was peer pressured into drawing the sona in a jacko pose lmao"
+  tools:
+    program: ibispaint
+  created: 2023-02-04
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/ardency/vii/old/sketch.png
+  alt: vii dodging some bullets like a queen
+  note:
+    "concept art for neon ardency, featuring an old iteration of Vii"
+  tools:
+    program: ibispaint
+  created: 2023-02-10
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/art/ardency/vii/old/sketch1.png
+  alt: vii using a grappling hook
+  note:
+    "old concept art for a future game"
+  tools:
+    program: ibispaint
+  created: 2023-02-14
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/art/ardency/vii/old/sketch2.png
+  alt: vii
+  note:
+    "drew a thing"
+  tools:
+    program: ibispaint
+  created: 2023-02-15
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/art/gen/2023-02/1.png
+  alt: cat girl, vaporwave
+  note:
+    "Needed to practice drawing basic backgrounds and basic lighting.
+    Not fully happy with everything here but I think it looks okay"
+  tools:
+    program: ibispaint
+  created: 2023-02-18
+  tags:
+    - drawing
+    - colored
+    - furry
+    - cat
+
+- url: /asset/image/art/gen/2023-03/0.png
+  alt: cat girl, neon lights
+  note:
+    "So anyways I drew them as a cat person and as a different person and I
+    also used this as an opportunity to practice shading more"
+  tools:
+    program: ibispaint
+  created: 2023-03-03
+  tags:
+    - drawing
+    - colored
+    - furry
+    - cat
+
+- url: /asset/image/art/ardency/vii/old/sketch3.png
+  alt: old vii iteration
+  note:
+    "And hopefully this is the final major iteration on this character"
+  tools:
+    program: ibispaint
+  created: 2023-03-06
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/art/ardency/red/old/0.png
+  alt: somewhat old red iteration
+  note:
+    "Heres a character, I named him Red because hes red, ans I forgot to draw his legs lol.
+    Not happy with the ear colors but I didn't want to add a new color to the palette.
+    The background is me playing with blendmodes, etc etc.
+    He's basically a police in training, trying to rise up the ranks to follow his parents footsteps"
+  tools:
+    program: ibispaint
+  created: 2023-03-08
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - red
+
+- url: /asset/image/art/ardency/vii/old/sketch4.png
+  alt: old vii sketch
+  note:
+    "playing with new brush and lineart style"
+  tools:
+    program: ibispaint
+  created: 2023-03-09
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - vii
+
+- url: /asset/image/art/parchii/wainggan5.png
+  alt: slime cat girl, on phone
+  note:
+    "still playing around with lineart"
+  tools:
+    program: ibispaint
+  created: 2023-03-10
+  tags:
+    - drawing
+    - colored
+    - parchii
+
+- url: /asset/image/art/ardency/ruwen/old/0.png
+  alt: ruwen
+  note:
+    "I tried. Not happy with the colors"
+  tools:
+    program: ibispaint
+  created: 2023-04-14
+  tags:
+    - drawing
+    - colored
+    - ardency
+    - ruwen
+
