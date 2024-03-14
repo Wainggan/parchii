@@ -4,7 +4,9 @@ title: parchii's dumpster fire
 
 # hai
 
-I'm parchii, a local wacko
+welcome! 
+
+mind the dust.
 
 
 [![](/asset/image/badges/webpassion.gif)](https://developer.mozilla.org/en-US/)
