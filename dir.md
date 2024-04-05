@@ -21,7 +21,5 @@ a directory of pages that exist, according to me
 - [art](art)
 ~ standalone peices of art
 	- [music](art/music)
-<!-- - [image](art/image)
-		- [drawing](art/image/drawing)-->
 	- [games](art/game)
 
