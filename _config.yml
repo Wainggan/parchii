@@ -17,6 +17,27 @@ description: a dumping ground for loose thoughts and ideas
 author: parchii
 url: "https://parchii.neocities.org"
 
+exclude: [
+  "*.x.*"
+]
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-webp
+
+webp:
+  enabled: true
+  
+  quality: 75
+
+  img_dir: ["/asset/image/"]
+  exclude: []
+  append_ext: false
+  nested: true
+
+  formats: [".jpeg", ".jpg", ".png", ".tiff"] 
+  gifs: [".gif"]
+
+  regenerate: false
+
