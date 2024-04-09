@@ -13,7 +13,7 @@
 
 ---
 
-<img src="{{ item.url }}" alt="{{ item.alt }}" loading="lazy"/>
+{% include picture.html src=item.url alt=item.alt %}
 
 {{ item.note }}
 

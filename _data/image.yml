@@ -1,5 +1,5 @@
 
-- url: /asset/image/art/ardency/vii/painting0.png
+- url: /asset/image/art/ardency/vii/painting0
   alt: digital painting of vii
   note:
     "first time attempting a paint-like style. screwed up the proportions and eyes."
@@ -12,7 +12,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/ardency/vii/sketch0.png
+- url: /asset/image/art/ardency/vii/sketch0
   alt: some face shots of vii
   note:
     "8 minute sketches of Vii, featuring like the tiniest bits of her new design."
@@ -25,7 +25,7 @@
     - ardency
     - vii
 
-- url: /asset/image/other/logo/calico.png
+- url: /asset/image/other/logo/calico
   alt: calico logo. has calico cat with the words "calico state"
   note:
     "calico state's splash logo, used for the itch.io and github page"
@@ -50,7 +50,7 @@
     - photo
     - clouds
 
-- url: /asset/image/art/gen/2024-01/bunyip.png
+- url: /asset/image/art/gen/2024-01/bunyip
   alt: lamia with cat ears and a fluffy tail
   note: 
     "something I drew after seeing the Monster Girl's \"bunyip\""
@@ -64,7 +64,7 @@
     - furry
     - lamia
 
-- url: /asset/image/art/ardency/vii/old/vii-old.png
+- url: /asset/image/art/ardency/vii/old/vii-old
   alt: old design for vii
   note:
     "this was an attempt at using krita for the first time! 
@@ -83,7 +83,7 @@
     - vii
     - furry
 
-- url: /asset/image/art/gen/2023-04/ebil.png
+- url: /asset/image/art/gen/2023-04/ebil
   alt: zombie cat girl
   note:
     "here is a random character I made up when I decided to try to throw together
@@ -101,7 +101,7 @@
     - colored
     - furry
 
-- url: /asset/image/art/gen/2023-06/person.png
+- url: /asset/image/art/gen/2023-06/person
   alt: bust drawing of a guy. has green skin, pink hair, yellow eyes, stylish as fuck
   note:
     "a random character I made up because I forgot how to use krita lol.
@@ -118,7 +118,7 @@
     - colored
     - nonhuman
 
-- url: /asset/image/art/gen/2023-06/itscold!!.png
+- url: /asset/image/art/gen/2023-06/itscold!!
   alt: windowed door, a cat girl demon is behind it
   note:
     "quick little sketch"
@@ -131,7 +131,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/gen/2023-06/ooo.png
+- url: /asset/image/art/gen/2023-06/ooo
   alt: cat girl with tail that roots into the ground
   note:
     "a quick sketch, just to try something. 
@@ -148,7 +148,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/artfight/2023/hyssop.png
+- url: /asset/image/art/artfight/2023/hyssop
   alt: kid with leaf hair in front of a sunset
   note:
     "someone [attacked me](https://artfight.net/attack/4115098.etkaa), drawing etkaa!!
@@ -164,7 +164,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/gen/2023-07/theresnothingwrong.png
+- url: /asset/image/art/gen/2023-07/theresnothingwrong
   alt: purple haired girl sitting on a static void
   note:
     "practice. took a bit of work to get the static to look right, but I'm quite happy 
@@ -177,7 +177,7 @@
     - colored
     - noise
 
-- url: /asset/image/art/ardency/etkaa/etkaa0.png
+- url: /asset/image/art/ardency/etkaa/etkaa0
   alt: black slime girl
   note:
     "decided to try joining [art fight](https://artfight.net/~parchii), so I drew a 
@@ -192,7 +192,7 @@
     - ardency
     - reference
 
-- url: /asset/image/art/artfight/2023/rosabella.png
+- url: /asset/image/art/artfight/2023/rosabella
   alt: pink haired girl sitting
   note:
     "drew a friends oc \"rosabella\" for art fight, then 
@@ -205,7 +205,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/ardency/vii/old/vii-ref.png
+- url: /asset/image/art/ardency/vii/old/vii-ref
   alt: vii in various poses
   note:
     "I needed a reference image for vii for the art fight, so I drew these lads. 
@@ -222,7 +222,7 @@
     - vii
     - furry
 
-- url: /asset/image/art/ardency/etkaa/etkaa1.png
+- url: /asset/image/art/ardency/etkaa/etkaa1
   alt: black slime girl
   note:
     "inspired by that earlier attack, I practiced soft shading with etkaa"
@@ -234,7 +234,7 @@
     - colored
     - ardency
 
-- url: /asset/image/art/artfight/2023/bea.png
+- url: /asset/image/art/artfight/2023/bea
   alt: green haired girl sitting
   note:
     "someone else [attacked me](https://artfight.net/attack/4091329.etkaa), 
@@ -249,7 +249,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/artfight/2023/margaret.png
+- url: /asset/image/art/artfight/2023/margaret
   alt: girl walking up stairs
   note:
     "seems I forgot to document this one at the time, my bad. 
@@ -262,7 +262,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/ardency/silvet/old/silvet.png
+- url: /asset/image/art/ardency/silvet/old/silvet
   alt: silvet's old design
   note:
     "forgot to document this one at the time. 
@@ -277,7 +277,7 @@
     - silvet
     - reference
 
-- url: /asset/image/art/artfight/2023/n0tslime.png
+- url: /asset/image/art/artfight/2023/n0tslime
   alt: a dude on his phone
   note:
     "I [attacked someone](https://artfight.net/attack/4471164.n0t-slime). 
@@ -297,7 +297,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/gen/2023-07/lora.png
+- url: /asset/image/art/gen/2023-07/lora
   alt: cat girl, peace sign
   note:
     "experimenting with hands!
@@ -311,7 +311,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/gen/2023-07/lora2.png
+- url: /asset/image/art/gen/2023-07/lora2
   alt: cat girl, reading a sheet of paper
   note:
     "lora again. she viibng"
@@ -324,7 +324,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/artfight/2023/obliteration.png
+- url: /asset/image/art/artfight/2023/obliteration
   alt: rosabella
   note:
     "drew rosabella again for an [attack](https://artfight.net/attack/5611275.bbbbbbbbbb). 
@@ -337,7 +337,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/artfight/2023/idea.png
+- url: /asset/image/art/artfight/2023/idea
   alt: zombie with big person-sized scissors
   note:
     "an attempt at a last minute attack for [dia](https://artfight.net/~DrLuBoo), 
@@ -350,7 +350,7 @@
     - colored
     - artfight
 
-- url: /asset/image/art/timelines/2023-07.png
+- url: /asset/image/art/timelines/2023-07
   alt: a grid of images
   note:
     "a collage of everything I drew in july this year. 
@@ -362,7 +362,7 @@
   tags:
     - timeline
 
-- url: /asset/image/art/gen/2023-08/cat.png
+- url: /asset/image/art/gen/2023-08/cat
   alt: red cat
   note:
     "tried drawing in a lineless style for the first time"
@@ -375,7 +375,7 @@
     - lineless
     - cat
 
-- url: /asset/image/art/gen/2023-08/newbrushtest.png
+- url: /asset/image/art/gen/2023-08/newbrushtest
   alt: cat girl face
   note:
     "I made a new krita lineart brush, so I tried it with the lineless style"
@@ -389,7 +389,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/ardency/red/red-stretching.png
+- url: /asset/image/art/ardency/red/red-stretching
   alt: red stretching
   note:
     "I don't draw Red as often as I should, so here he is."
@@ -403,7 +403,7 @@
     - red
     - furry
 
-- url: /asset/image/art/ardency/red/redRun.png
+- url: /asset/image/art/ardency/red/redRun
   alt: red running to the left
   note:
     "drew Red again. he's such a lad"
@@ -417,7 +417,7 @@
     - red
     - furry
 
-- url: /asset/image/art/ardency/raoul.png
+- url: /asset/image/art/ardency/raoul
   alt: raoul leaning on a wall
   note:
     "drew the first boss of neon ardency.
@@ -431,7 +431,7 @@
     - colored
     - ardency
 
-- url: /asset/image/art/gen/2023-10/miku.png
+- url: /asset/image/art/gen/2023-10/miku
   alt: hatsune miku pointing at a cat, saying "do you eat rocks or something"
   note:
     "decided to draw hatsune miku on a whim. rushed it quite a bit"
@@ -442,7 +442,7 @@
     - drawing
     - colored
 
-- url: /asset/image/art/parchii/old.png
+- url: /asset/image/art/parchii/old
   alt: pink slime girl with cybernetiks
   note:
     "an sona of mine. 
@@ -455,7 +455,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/ardency/vii/old/vii_gameportrait.png
+- url: /asset/image/art/ardency/vii/old/vii_gameportrait
   alt: a game portrait of vii
   note:
     "a game portrait of Vii, for neon ardency. made to test the game's artstyle."
@@ -470,7 +470,7 @@
     - furry
     - game
 
-- url: /asset/image/art/gen/2023-10/30mins.png
+- url: /asset/image/art/gen/2023-10/30mins
   alt: cat girl probably
   note:
     "a quick test to see what I could get done in 30 minutes.
@@ -485,7 +485,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/gen/2023-10/okay.png
+- url: /asset/image/art/gen/2023-10/okay
   alt: a mess
   note:
     "a complete mess of an image. I might try making more like this"
@@ -495,7 +495,7 @@
   tags:
     - splash
 
-- url: /asset/image/art/gen/2023-10/listofthings.png
+- url: /asset/image/art/gen/2023-10/listofthings
   alt: highly processed image of something
   note:
     "not sure what to say about this."
@@ -505,7 +505,7 @@
   tags:
     - splash
 
-- url: /asset/image/art/nullstars/nova.png
+- url: /asset/image/art/nullstars/nova
   alt: a reference image of nova
   note:
     "a little reference image of nova, the protagonist of my other wip game \"nullstars\"."
@@ -519,7 +519,7 @@
     - nova
     - reference
 
-- url: /asset/image/art/rase/rs.png
+- url: /asset/image/art/rase/rs
   alt: various rodney and snake things
   note:
     "quick sketch of rodney and snake doing things"
@@ -531,7 +531,7 @@
     - sketch
     - rodneysnakeeyes
 
-- url: /asset/image/art/nullstars/nullstars-0.png
+- url: /asset/image/art/nullstars/nullstars-0
   alt: nova flipping over a chain being shot at it from a huge floating eyeball
   note:
     "concept art for nullstars."
@@ -544,7 +544,7 @@
     - nullstars
     - nova
 
-- url: /asset/image/art/gen/2023-10/fakepeople.png
+- url: /asset/image/art/gen/2023-10/fakepeople
   alt: fake people
   note:
     "I think I was having a breakdown"
@@ -554,7 +554,7 @@
   tags:
     - splash
 
-- url: /asset/image/art/gen/2023-11/pool.png
+- url: /asset/image/art/gen/2023-11/pool
   alt: 3d render of a dumb pool
   note:
     "messing around with magica voxel"
@@ -564,7 +564,7 @@
   tags:
     - 3D
 
-- url: /asset/image/art/gen/2022-06/cat.png
+- url: /asset/image/art/gen/2022-06/cat
   alt: '???'
   note:
     "inexplicably found this in my drive with the caption \"nukes have negative, cats are cats\""
@@ -584,7 +584,7 @@
   tags:
     - meme
     
-- url: /asset/image/art/gen/2022-10/story.png
+- url: /asset/image/art/gen/2022-10/story
   alt: comic where a person pushes someone else into a bottomless void
   note:
     "an artistic rendition of a story I wrote for a school assignment back in 3rd grade.
@@ -596,7 +596,7 @@
     - drawing
     - comic
 
-- url: /asset/image/art/parchii/wainggan0.png
+- url: /asset/image/art/parchii/wainggan0
   alt: slime cat girl
   note:
     "first time trying to draw digitally! featuring a new sona to go with it"
@@ -608,7 +608,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/parchii/wainggan1.png
+- url: /asset/image/art/parchii/wainggan1
   alt: slime cat girl, on ground
   note:
     "drew the sona again. splat"
@@ -620,7 +620,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/parchii/wainggan2.png
+- url: /asset/image/art/parchii/wainggan2
   alt: slime cat girl, smiling
   note:
     "drew the sona again"
@@ -632,7 +632,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/parchii/wainggan3.png
+- url: /asset/image/art/parchii/wainggan3
   alt: slime cat girl, in radiation barrel
   note:
     "sona again"
@@ -644,7 +644,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/parchii/wainggan4.png
+- url: /asset/image/art/parchii/wainggan4
   alt: slime cat girl sketch, jacko pose
   note:
     "was peer pressured into drawing the sona in a jacko pose lmao"
@@ -656,7 +656,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/ardency/vii/old/sketch.png
+- url: /asset/image/art/ardency/vii/old/sketch
   alt: vii dodging some bullets like a queen
   note:
     "concept art for neon ardency, featuring an old iteration of Vii"
@@ -669,7 +669,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/ardency/vii/old/sketch1.png
+- url: /asset/image/art/ardency/vii/old/sketch1
   alt: vii using a grappling hook
   note:
     "old concept art for a future game"
@@ -682,7 +682,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/ardency/vii/old/sketch2.png
+- url: /asset/image/art/ardency/vii/old/sketch2
   alt: vii
   note:
     "drew a thing"
@@ -695,7 +695,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/gen/2023-02/1.png
+- url: /asset/image/art/gen/2023-02/1
   alt: cat girl, vaporwave
   note:
     "Needed to practice drawing basic backgrounds and basic lighting.
@@ -709,7 +709,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/gen/2023-03/0.png
+- url: /asset/image/art/gen/2023-03/0
   alt: cat girl, neon lights
   note:
     "So anyways I drew them as a cat person and as a different person and I
@@ -723,7 +723,7 @@
     - furry
     - cat
 
-- url: /asset/image/art/ardency/vii/old/sketch3.png
+- url: /asset/image/art/ardency/vii/old/sketch3
   alt: old vii iteration
   note:
     "And hopefully this is the final major iteration on this character"
@@ -736,7 +736,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/ardency/red/old/0.png
+- url: /asset/image/art/ardency/red/old/0
   alt: somewhat old red iteration
   note:
     "Heres a character, I named him Red because hes red, ans I forgot to draw his legs lol.
@@ -752,7 +752,7 @@
     - ardency
     - red
 
-- url: /asset/image/art/ardency/vii/old/sketch4.png
+- url: /asset/image/art/ardency/vii/old/sketch4
   alt: old vii sketch
   note:
     "playing with new brush and lineart style"
@@ -765,7 +765,7 @@
     - ardency
     - vii
 
-- url: /asset/image/art/parchii/wainggan5.png
+- url: /asset/image/art/parchii/wainggan5
   alt: slime cat girl, on phone
   note:
     "still playing around with lineart"
@@ -777,7 +777,7 @@
     - colored
     - parchii
 
-- url: /asset/image/art/ardency/ruwen/old/0.png
+- url: /asset/image/art/ardency/ruwen/old/0
   alt: ruwen
   note:
     "I tried. Not happy with the colors"
