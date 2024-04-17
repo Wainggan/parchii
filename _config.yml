@@ -1,16 +1,20 @@
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: default
       style: /asset/layout.css
-  -
-    scope:
+  
+  - scope:
       path: ""
       type: posts
     values:
       layout: post
+  
+  - scope:
+      path: "nullstars"
+    values:
+      style: /asset/nullstars.css
 
 title: parchii hell
 description: a dumping ground for loose thoughts and ideas
