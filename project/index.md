@@ -44,9 +44,9 @@ development is in its very early stages.
 | my status | active |
 
 | engine | [GameMaker](https://gamemaker.io/en) |
-| art | tba |
-| music | tba |
-| sfx | tba |
+| art | tbd |
+| music | tbd |
+| sfx | tbd |
 
 
 ### credits
