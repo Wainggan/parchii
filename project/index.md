@@ -10,9 +10,12 @@ unless otherwise noted, the credits for all of these is usually just me.
 
 for smaller stuff, check the [misc page](misc)
 
+- [nullstars](/nullstars/)
+- [ardency](/ardency/)
+
 
 ---
-## nullstars
+## [nullstars](/nullstars/)
 
 a precision platformer with a timer
 
@@ -73,7 +76,7 @@ released as a submittion to the [GameMaker Cookbook Jam](https://itch.io/jam/coo
 
 
 ---
-## neon ardency
+## [neon ardency](/ardency/)
 
 a bullet hell where you rip apart enemies with melee explosions
 
