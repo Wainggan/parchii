@@ -10,6 +10,9 @@
 -
   name: blog
   link: /blog
+
+- name: nullstars
+  link: /nullstars
 -
   name: contact
   link: /social

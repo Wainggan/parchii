@@ -18,6 +18,10 @@ a directory of pages that exist, according to me
 ~ projects I've worked on / am working
 	- [misc](project/misc)
 	~ various smaller experiments, toys, and tools
+- [nullstars](/nullstars/)
+~ a dedicated page for nullstars
+- [ardent shot](/ardency/)
+~ a dedicated page for ardent shot
 - [art](art)
 ~ standalone peices of art
 	- [music](art/music)
