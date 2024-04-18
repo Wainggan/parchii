@@ -1,15 +1,20 @@
 ---
-title: ardent shot
+title: ardency index
 ---
 
-# ardent shot
+# ardency
 
-ardent shot is a short vertical arcade shmup, where you explode enemies with a grappling hook.
-play as "Vii" as she tries to beat the shit out of her friend.
+ardency is a world building project I've been working on for a little while.
 
-game is planned to be finished in 2024 or early 2025, with a demo sometime at summer.
 
-- [devlog](./log)
+## pages
 
-was originally a Touhou fangame, until it branched off into its own thing entirely.
+- [wiki](./wiki/) ~ a wiki with a bunch of details I feel like sharing.
+- [ani](./ani/) ~ an in-world social media
+
+
+## media
+
+- [ardent shot](./ardentshot/) ~ a wip vertical arcade shmup
+
 
