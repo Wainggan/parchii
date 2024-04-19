@@ -22,7 +22,8 @@ author: parchii
 url: "https://parchii.neocities.org"
 
 exclude: [
-  "*.x.*"
+  "*.x.*",
+  "license"
 ]
 
 plugins:
