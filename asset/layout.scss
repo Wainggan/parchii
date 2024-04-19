@@ -136,12 +136,14 @@ footer {
 }
 .header-img {
 	background: var(--header-image);
+	background-size: cover;
 	background-position: 0 50%;
 	border-bottom: 2px solid white;
 	height: var(--header-image-height);
 }
 .footer-img {
 	background: var(--footer-image);
+	background-size: cover;
 	background-position: 0 100%;
 	border-top: 2px solid white;
 	height: var(--footer-image-height);
