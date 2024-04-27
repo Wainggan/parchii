@@ -6,6 +6,10 @@ title: parchii's dumpster fire
 
 welcome! 
 
+- [my blog](/blog) thing is where most of my day to day incessant ramblings go.
+- there are dedicated pages for [ardent shot](/ardency/ardentshot/) and [nullstars](/nullstars/), my games.
+- kinda just. explore around ig.
+
 mind the dust.
 
 

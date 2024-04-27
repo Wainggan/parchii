@@ -5,7 +5,7 @@ styles: /asset/blog.css
 
 # the dumpster
 
-free incessant ramblings
+watch me scream into the void
 
 ---
 

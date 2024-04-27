@@ -13,7 +13,7 @@ game is planned to be finished in 2024 or early 2025, with a demo sometime at su
 
 was originally a Touhou fangame, until it branched off into its own thing entirely.
 
-## featured characters
+## characters
 
 - [vii](/ardency/wiki/character/vii) ~ player character
 - [raoul](/ardency/wiki/character/raoul) ~ stage 1 boss

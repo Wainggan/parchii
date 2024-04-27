@@ -20,7 +20,7 @@ a directory of pages that exist, according to me
 	~ various smaller experiments, toys, and tools
 - [nullstars](/nullstars/)
 ~ a dedicated page for nullstars
-- [ardent shot](/ardency/)
+- [ardent shot](/ardency/ardentshot/)
 ~ a dedicated page for ardent shot
 - [art](art)
 ~ standalone peices of art

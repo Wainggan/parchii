@@ -22,7 +22,7 @@ a precision platformer with a timer
 originally a sort of "redemption arc" for Ejow. 
 
 | status | wip - active |
-| demo release | soon |
+| demo release | some day |
 | release | tbd |
 
 - [source](https://github.com/Wainggan/nullstars)
@@ -76,7 +76,7 @@ released as a submittion to the [GameMaker Cookbook Jam](https://itch.io/jam/coo
 
 
 ---
-## [neon ardency](/ardency/)
+## [ardent shot](/ardency/)
 
 a bullet hell where you rip apart enemies with melee explosions
 
