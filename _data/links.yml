@@ -5,6 +5,9 @@
   name: dir
   link: /dir
 -
+  name: art
+  link: /art
+-
   name: project
   link: /project
 -

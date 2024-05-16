@@ -24,6 +24,7 @@ a directory of pages that exist, according to me
 ~ a dedicated page for ardent shot
 - [art](art)
 ~ standalone peices of art
+	- [image](art/image)
 	- [music](art/music)
 	- [games](art/game)
 

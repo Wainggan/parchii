@@ -76,7 +76,7 @@ released as a submittion to the [GameMaker Cookbook Jam](https://itch.io/jam/coo
 
 
 ---
-## [ardent shot](/ardency/)
+## [ardent shot](/ardency/ardentshot/)
 
 a bullet hell where you rip apart enemies with melee explosions
 

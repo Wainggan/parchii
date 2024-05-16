@@ -6,6 +6,6 @@ title: art
 
 I make art sometimes.
 
+- [image](image)
 - [music](music)
-- [drawings](drawing)
 - [games](game)
