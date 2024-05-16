@@ -1,4 +1,182 @@
 
+- url: /asset/image/art/parchii/parchii-4
+  alt: furry-type character, goopy cat girl walking in front of a cloudy, starry horizon. 
+  note:
+    "I want to get better at drawing backgrounds, so I drew this. *really* happy with how this looks."
+  tools:
+    program: krita
+  created: 2024-05-15
+  tags:
+    - drawing
+    - colored
+    - furry
+    - parchii
+    - background
+
+- url: /asset/image/art/parchii/parchii-ask-0
+  alt: furry-type character, goopy cat girl. she's saying 'I mean, thank you I guess'. an arrow is pointing at her labeled 'literally about to cry'
+  note:
+    "drawn in response to an ask saying 'Underrated Artist'"
+  tools:
+    program: krita
+  created: 2024-05-14
+  tags:
+    - drawing
+    - colored
+    - furry
+    - parchii
+    - ask
+
+- url: /asset/image/art/parchii/parchii-2
+  alt: furry-type character, goopy cat girl
+  note:
+    "drawing my sona, in a really cute pose"
+  tools:
+    program: krita
+  created: 2024-05-13
+  tags:
+    - drawing
+    - colored
+    - furry
+    - parchii
+
+- url: /asset/image/art/parchii/parchii-1
+  alt: furry-type character, goopy cat girl
+  note:
+    "drawing my sona in a little pose."
+  tools:
+    program: krita
+  created: 2024-05-04
+  tags:
+    - drawing
+    - colored
+    - furry
+    - parchii
+
+- url: /asset/image/art/ardency/vii/vii-0
+  alt: furry character
+  note:
+    "drawing vii a bit. the she"
+  tools:
+    program: krita
+  created: 2024-05-02
+  tags:
+    - drawing
+    - grayscale
+    - furry
+    - ardency
+    - vii
+
+- url: /asset/image/art/parchii/parchii-0
+  alt: furry-type character, goopy cat girl
+  note:
+    "its been a while since I've drawn my sona, so here she is! I'm really happy with the way the lineart turned out."
+  tools:
+    program: krita
+  created: 2024-05-02
+  tags:
+    - drawing
+    - colored
+    - furry
+    - parchii
+
+- url: /asset/image/art/gen/2024-05/comic-5
+  alt: comic
+  note:
+    "another comic."
+  tools:
+    program: ibispaint
+  created: 2024-05-15
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/art/gen/2024-05/comic-4
+  alt: comic
+  note:
+    "another comic."
+  tools:
+    program: ibispaint
+  created: 2024-05-15
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/art/gen/2024-05/comic-3
+  alt: comic
+  note:
+    "another comic."
+  tools:
+    program: ibispaint
+  created: 2024-05-14
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/art/gen/2024-05/comic-2
+  alt: comic
+  note:
+    "another comic."
+  tools:
+    program: ibispaint
+  created: 2024-05-14
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/art/gen/2024-05/comic-1
+  alt: comic
+  note:
+    "another comic."
+  tools:
+    program: ibispaint
+  created: 2024-05-13
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/art/gen/2024-05/comic-0
+  alt: comic
+  note:
+    "quick thing I threw together on my phone in the bus. thus marks the beginning of thses stupid headspace comics"
+  tools:
+    program: ibispaint
+  created: 2024-05-13
+  tags:
+    - drawing
+    - comic
+    - furry
+
+- url: /asset/image/other/album/cuttingitthin
+  alt: album cover for cutting it thin
+  note:
+    "an album cover I put together for cutting it thin."
+  tools:
+    program: krita
+  created: 2024-04-14
+  tags:
+    - splash
+    - album
+    - cover
+
+- url: /asset/image/art/gen/2024-04/ave
+  alt: furry character
+  note:
+    "drew this for a friend's birthday. I'm happy pretty happy with it, overall."
+  tools:
+    program: krita
+  created: 2024-04-22
+  tags:
+    - drawing
+    - colored
+    - furry
+    - gift
+
 - url: /asset/image/art/ardency/vii/painting0
   alt: digital painting of vii
   note:
@@ -38,7 +216,7 @@
     - cat
     - flat
 
-- url: /asset/image/other/photo/clouds.jpg
+- url: /asset/image/other/photo/clouds
   alt: photo of pink and blue tinted clouds
   note: 
     "clouds I took a picture of on a particularly good sunset"
