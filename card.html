@@ -1,0 +1,44 @@
+---
+layout: base
+style: /asset/card.css
+define_links:
+  - title: website
+    link: https://parchii.neocities.org/
+  - title: tumblr
+    link: https://www.tumblr.com/blog/parchii
+  - title: bluesky
+    link: https://bsky.app/profile/parchii.bsky.social
+  - title: email
+    link: mailto://parchii@waifu.club
+---
+
+<div class="wrapper">
+<div class="main">
+
+	<h1>parchii</h1>
+	<p class="main-subheading">or "parchment"</p>
+
+	<div class="main-pfp">
+	<div>
+	<img src="/asset/image/art/parchii/parchii-ask-1.png" alt="pfp">
+	</div>
+	</div>
+
+	<p class="main-desc">
+		wip game dev, musician, and artist.
+	</p>
+
+	<ul>
+	{% for item in page.define_links -%}
+	<li><a href="{{ item.link }}">{{ item.title }}</a></li>
+	{% endfor -%}
+	</ul>
+
+	<p class="main-discord"><strong>@parchii</strong> on discord</p>
+
+</div>
+</div>
+
+
+
+

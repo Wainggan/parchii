@@ -1,0 +1,85 @@
+
+*, *::before, *::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+	width: 100vw;
+	height: 100vh;
+
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 18px;
+}
+
+.wrapper {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.main {
+
+	border-radius: 6px;
+
+	background: #fffcff;
+
+	padding: 2rem;
+	margin: 4rem auto;
+
+	width: min(max(24rem, 60%), 40rem)
+
+}
+
+.main-subheading {
+	font-size: 1.1em;
+	margin: 0 1rem;
+}
+
+.main-pfp {
+	max-width: 100%;
+}
+.main-pfp > div {
+
+	border-radius: 100%;
+	overflow: hidden;
+
+	margin: 1rem 2rem;
+	
+	width: 10rem;
+	height: 10rem;
+}
+.main-pfp > div img {
+	width: 100%;
+	height: 100%;
+
+	text-align: center;
+}
+
+.main ul {
+	margin: 1rem 0;
+}
+.main ul li {
+	border-radius: 6px;
+	list-style: none;
+
+	background: #bbc;
+	margin: 0.5rem 0;
+
+	width: min-content;
+	min-width: 10rem;
+
+}
+.main ul a {
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	padding: 0.9rem 1rem;
+	width: 100%;
+}
+
+.main-discord, .main-desc {
+	margin: 0 1rem;
+}
