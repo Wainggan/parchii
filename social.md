@@ -11,7 +11,7 @@ places where you can see what I'm up to.
 - [reddit](https://reddit.com/u/wainggan) (inactive)
 - [twitter](https://twitter.com/wainggan) (inactive)
 
-contact via discord dm at `@parchii`, or by email at `parchii@waifu.club`.
+contact anywhere you'd like, or via discord dm at `@parchii`, or by email at `parchii@waifu.club`.
 
 - [carrd](https://parchii.neocities.org/carrd)
 

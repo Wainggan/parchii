@@ -27,4 +27,6 @@ a directory of pages that exist, according to me
 	- [image](art/image)
 	- [music](art/music)
 	- [games](art/game)
+- [credits](/credits)
+~ list of resources/tools used for this site
 
