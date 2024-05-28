@@ -13,6 +13,8 @@ places where you can see what I'm up to.
 
 contact via discord dm at `@parchii`, or by email at `parchii@waifu.club`.
 
+- [carrd](https://parchii.neocities.org/carrd)
+
 ## socials?
 
 - [toyhouse](https://toyhou.se/parchii)
@@ -20,4 +22,5 @@ contact via discord dm at `@parchii`, or by email at `parchii@waifu.club`.
 - [github](https://github.com/Wainggan/)
 - [youtube](https://www.youtube.com/channel/UCg-mHVC5mXGOa5A-CXOawow)
 - [blog](/blog)
+
 
